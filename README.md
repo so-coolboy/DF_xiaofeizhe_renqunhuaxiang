@@ -1,2 +1,3 @@
 # DF_xiaofeizhe_renqunhuaxiang
 DF_消费者人群画像baseline
+主要参考了开源的一些代码的方案，自己也做过一些别的特征，但是效果都不好。使用了复杂的stacking还导致了过拟合严重。
